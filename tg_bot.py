@@ -207,6 +207,56 @@ all_photo = ["AgACAgIAAxkBAANFaUSnhSpFWdN9_5H_Px91RmWfVH8AAsYLaxtv3ChKgIJNgWTSP9
             "AgACAgIAAxkBAAPjaUSnjNkYCQGtSVhJOx4-zT2lGgUAAj8Maxtv3ChKS6Dc1Nn9IqMBAAMCAAN5AAM2BA",
             "AgACAgIAAxkBAAPkaUSnjNddiSP85rSTdf0MPdTs2oEAAkAMaxtv3ChKauJkR8kJ9HkBAAMCAAN5AAM2BA",
             "AgACAgIAAxkBAAPlaUSnjAEuG_o_zrZrhrXgG_JgtpUAAjgMaxtv3ChKbsPhbcvpGjsBAAMCAAN5AAM2BA",
+            "AgACAgIAAxkBAAIElmmPi9vJGHz691_keXqfVRlTWzD3AAKTFWsbTbqBSAhWK3iugP98AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEl2mPi9v_F0o7ItBzpTrgX9v20fW9AAKUFWsbTbqBSFhTc16cX_jbAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEmGmPi9vGN6HzoPZKeScGszv9dgaXAAKYFWsbTbqBSGiP8Qs7_VMMAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEmWmPi9sqOQNKCSDW3Of-9DUs0M6iAAKaFWsbTbqBSOm-A8yDBB4MAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEmmmPi9vUSDfJkK4XmQ7FQeJKHJn7AAKbFWsbTbqBSJjIga7si4QXAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEm2mPi9skaWMwGiC_vFzTk99lZ8q-AAKcFWsbTbqBSIeFLwRN27VVAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEnGmPi9ucZSsqvDgAAUNyUrgqZefiEwACnRVrG026gUji2jhLQO23agEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEnWmPi9vE11EkPvPn3Mp89pgTV2BbAAKVFWsbTbqBSBQ-0KlgkUEWAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEnmmPi9t7Kuzqf5if-pHRORsyxMQ7AAKWFWsbTbqBSBnwRYXnhTYmAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEn2mPi9uAzn8pJGy24OomF0lmMAbbAAKXFWsbTbqBSFC2DX8N2vepAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEb2mPi32qNTBLrLHvKbHhTiy9GDjvAAJvFWsbTbqBSEJO4x3vIbJ-AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEcGmPi31iUkssSbw8F5d05JKmPoWUAAJoFWsbTbqBSA0FbKPwu_vQAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEcWmPi31YMJr3170wszjAhpT0n7W_AAJpFWsbTbqBSDVgZXRvIArVAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEcmmPi30hKyDmjIt9U3vAI5jY1MtsAAJqFWsbTbqBSGh3u3Bnt2OTAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEc2mPi30DDr4o_VY5swf8jfNT3R8kAAJrFWsbTbqBSNJOn80O3aZSAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEdGmPi33ud7-v9FShHee3bMbTlJ_oAAJsFWsbTbqBSJ-S9VwkA100AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEbmmPi30XG6sY5-CfiJHQPEMbDRqPAAJnFWsbTbqBSNDGfHOx1s1CAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEdWmPi31fwJchr0a_pI8HpkD2MOOlAAJtFWsbTbqBSDhZf8Bs9EInAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEdmmPi33gjBE_-zoghbTiyoJzlW9_AAJwFWsbTbqBSKycZesFMCBcAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEd2mPi328A5xoBDTbFB2YljhEPySDAAJuFWsbTbqBSGUefIBP4VeKAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEeGmPi6SxdGwD73iwhmJSiBwoZh8AA3cVaxtNuoFIWdGINCndT0oBAAMCAAN3AAM6BA",
+            "AgACAgIAAxkBAAIEeWmPi6R9NTTevOXfdl9VrpKVMfahAAJ7FWsbTbqBSFoAAdmFSM_oVwEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEemmPi6Sq_QABW0wmVIVCGqKxsUw4qQACfRVrG026gUhHvMWVgVdnTwEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEe2mPi6S6C0lmUAXf_u_IZVjE5SvdAAJxFWsbTbqBSEE6GyqKgr-RAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEfGmPi6SSb2KIc0BM6dd2nBVDC5UUAAJyFWsbTbqBSPKJ0TvaraGwAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEfGmPi6SSb2KIc0BM6dd2nBVDC5UUAAJyFWsbTbqBSPKJ0TvaraGwAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEfmmPi6TXpxhv1pyd_cYcN3qB4ksKAAKBFWsbTbqBSOVACQuD2EzgAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEf2mPi6QrlDkByHgadvyxYro8pctDAAKDFWsbTbqBSHYYMPG9xwABdwEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEgGmPi6TskWDmf5U1STU-RM3KfP_-AAJzFWsbTbqBSAAB3eBqyGXWygEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEgWmPi6Q76vzZco2poVfjOJjFJcHCAAJ0FWsbTbqBSEyH1qL778rWAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEgmmPi6v_xpgWHjcnm41BoY3xBQ9lAAJ2FWsbTbqBSIGC9PpQt1RqAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEg2mPi6vDQLB66sgGha3lWCNrM4DdAAJ4FWsbTbqBSKqPdajyV4KFAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEhGmPi6u06H8D2UdhAAEayoZkUghV1wACfBVrG026gUgrVhzp0kXnSwEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEhWmPi6vRfJkP9sCTtwIsJpp2o8-yAAJ-FWsbTbqBSJVeupTQySL5AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEhmmPi6sD8v1uc1Uea-d2fHBC0MFBAAKAFWsbTbqBSHwNzEm9k_gDAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEh2mPi6uleSQGFxhxBPjpW3crvkAKAAKCFWsbTbqBSOJId_BeBDLBAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEiGmPi6sq_NhF6MkNly9wLsvTimdtAAKEFWsbTbqBSG3edKxyzQccAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEiWmPi6tGZ5-1BNxL7HvVBcCuWRC6AAKFFWsbTbqBSNiwRX4OqjetAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEimmPi6v_5qTrb-vFDQp1MZJxdvkoAAKGFWsbTbqBSFBQthg4A148AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEi2mPi6syfoSaLVxIKCZrHce0m-2qAAKHFWsbTbqBSAHGM0qjIDxmAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEjGmPi7ygj2k7SOz2RkbAop5P97oEAAKIFWsbTbqBSH0uregBv_m1AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEjWmPi7wdwmr2g56zKZya3mg-q5UkAAKJFWsbTbqBSCL6vo0vLRJ7AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEjmmPi7w5fUcoWQlR27FAAkkYqA5WAAKKFWsbTbqBSCggjzlbqFZ2AQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEj2mPi7wAAbfbsS9CONtE7zQ8qcy3dAACixVrG026gUgTW4JM_9fRwgEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEkGmPi7xsCM1Nh5js11JeAAG2y_xYuwACjBVrG026gUiDrE7fZdTaHwEAAwIAA3cAAzoE",
+            "AgACAgIAAxkBAAIEkWmPi7y-SoSVjDZRjtFGPi52chXkAAKNFWsbTbqBSFM5Ku5gZ1sJAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEkmmPi7wevCfKfAvXr7sgNip-mCGKAAKPFWsbTbqBSHCYP-CfAXCGAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIEk2mPi7xHogx7INc7iteIWzekPnrrAAKQFWsbTbqBSNO5JzovTjSqAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIElGmPi7ypEro55aj-md0bKNG4vdE4AAKRFWsbTbqBSDy8sBXVqSZOAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIElWmPi7zt6DJJgp7oI2k5ouvZRxWrAAKSFWsbTbqBSPIwNcXXb_d2AQADAgADdwADOgQ",
          ]
 all_video = ["BAACAgIAAxkBAAIBaWlEr30nRDeBAAEViw1JBz2DGtMi7wAC6YoAAm_cKEq3ehbC62zyPDYE",
              "BAACAgIAAxkBAAIBamlEr30Z3tOXY__kvCrRak1tSkpzAAIrhwACYtIpSvVWvvqnrzIAATYE",
@@ -226,6 +276,15 @@ all_video = ["BAACAgIAAxkBAAIBaWlEr30nRDeBAAEViw1JBz2DGtMi7wAC6YoAAm_cKEq3ehbC62
              "BAACAgIAAxkBAAIBhGlEsHb_ZhrYhcsdCyvoy1wPi3eZAAI4hwACYtIpSvaguRSd5AABUDYE",
              "BAACAgIAAxkBAAIBhWlEsHYFOFCnuGNpm-pBgv7ACwkeAAI5hwACYtIpSsryJ2oSLYBrNgQ",
              "BAACAgIAAxkBAAIBYWlErfmkL-MmawH9BaWh6_7s5dMxAAIphwACYtIpSjcTch1zajJoNgQ",
+             "BAACAgIAAxkBAAIFAmmPjupWIJJjC9OUvDp2bNtBvrGmAALnmAACTbqBSJdmjAoBV8dxOgQ",
+             "BAACAgIAAxkBAAIFA2mPjupuqQAB2Kpo244bDeLyCxgcogAC6JgAAk26gUgWJcZ3pxX71zoE",
+             "BAACAgIAAxkBAAIFBWmPjuqbCzEVUHgT7FhdZLh7dZlpAALwmAACTbqBSD6BT5CHVDnZOgQ",
+             "BAACAgIAAxkBAAIFBmmPjuqjLLP1U6xL_h_comD6T9U5AALqmAACTbqBSLTjLUz1-az_OgQ",
+             "BAACAgIAAxkBAAIFB2mPjuok0Ejw5P4E0BurQVWY0GcpAALxmAACTbqBSLq_GdONsff9OgQ",
+             "BAACAgIAAxkBAAIFCGmPjuon8S3YKsj90_mjwU12pdYQAALsmAACTbqBSE1S5qltLoEAAToE",
+             "BAACAgIAAxkBAAIFCWmPjurMZXlenB9ntnWXlico3R16AALtmAACTbqBSH-Qlp9-U3F8OgQ",
+             "BAACAgIAAxkBAAIFCmmPjuqwSLUNNG91dccLzn5MTS1iAALumAACTbqBSPqNDzPvUZaTOgQ",
+             "BAACAgIAAxkBAAIFBGmPjuqZ3AVOEDj_Z90mIs0qdLhgAALpmAACTbqBSOuj7yp0tG-TOgQ",
 ]
 
 @bot.message_handler(commands=['start'])
@@ -234,8 +293,10 @@ def start(message):
     btn1 = types.KeyboardButton("Комплиментики💋")
     btn2 = types.KeyboardButton("Наши фоточки/видео😻")
     btn3 = types.KeyboardButton("С 4 месяцами!!❤️❤️❤️")
+    btn4 = types.KeyboardButton("С 14 февраля!!❤️❤️❤️")
     markup.add(btn1)
     markup.add(btn2, btn3)
+    markup.add(btn4)
     
     bot.send_message(message.chat.id, "<b>Этот бот создан для самой любимой и самой лучшей девушки на свете!\n С любовью от Левика🦁</b>", reply_markup=markup, parse_mode="HTML")
 
@@ -256,6 +317,13 @@ def handle_text(message):
         bot.send_message(message.chat.id, """<tg-spoiler> моя олюсічка красотулічка, поздравляю нас с (правда ещё не наступившими) 4 месяцами. ты подумай, это целая треть года. мне не верится что мы уже так долго! ещё вчера я впервые увидел тебя на знакомстве с одногруппниками и шел в общагу с бабочками в животе. если бы мне тогда сказали, я бы не поверил что ты станешь моей девушкой. станешь самим близким и самым ценным человеком для меня. что ты - именно та, которую я искал всю свою жизнь. такую добрую, милую, красивую, умную, заботливую, внимательную, понимающую, нежную, соблазнительную, мудрую. с такой прекрасной улыбкой, шикарными длинными волосами, с невероятно красивыми глазами, с таким красивым носиком, с такими роскошными ресницами и бровями, идеальную от макушки до стоп.  я благодарен судьбе за то что она свела нас. ты мой лучик света и моя опора. без тебя я не я. меня очень радует что мы с тобой строим отношения. общаемся, ищем компромиссы. за прошлый месяц мы сделали много работы над нашими отношениями и стали ещё ближе. меня очень радует тот факт что ты готова идти на компромиссы и даже на уступки ради укрепления наших отношений. я вижу сколько сил ты вкладываешь в «нас». я это невероятно ценю. ещё я очень ценю твою готовность меня поддержать во всём. будь то мои начинание или мои переживание. именно поэтому я доверяю тебе на все 101%. я смотрю на тебя и понимаю что ты именно та. что с тобой я хочу видеть будущее, что для тебя я готов отдать всего себя и делать всё возможное, чтобы ты была счастлива. порой я бываю грустный, ранимый, огорченный, злой, но ты делаешь всё возможное чтобы найти корень моих эмоций и помочь мне. это многое значит для меня. я не боюсь тебе показывать свои эмоции. с тобой я такой какой есть, со своими изъянами и недостатками. знай, это всё потому что я очень сильно тебя люблю, потому что я доверяю тебе на все 100% и потому что я открыт с тобой так, как ни с кем другим. учитывая что ты читаешь это в новый год, хочу пожелать нам чтобы этот год стал лучшим в нашей жизни. чтобы наши мечты сбывались и цели достигались. я уверен в новом году мы будем вместе, может нам предстоит пройти какие-то трудности и невзгоды, но я уверен, мы преодолеем все преграды, потому что мы есть друг у друга
 любимая моя, ты самый ценный и самый близкий человек что у меня есть, был и будет. я с тобой хоть на край света и для тебя я сверну горы, знай это. я люблю тебя больше всех на этом белом свете. ты мой самый милый и нежный котик ❤️❤️❤️💋💋💋🫂🫂🫂
 поздравляю нас с 4 месяцами и с новым 2026 годом 🥳🎉🍾</tg-spoiler>""", parse_mode="HTML")
+    elif message.text == "С 14 февраля!!❤️❤️❤️":
+        bot.send_message(message.chat.id, """<tg-spoiler>любимая моя, поздравляю нас с 14 февраля и целых 163 днями!! 
+первое что хочу сказать, это то что я безумно рад что ты моя девушка, правда. ты заставляешь меня двигаться и развиваться. ты моя опора и ты мой дом. я очень рад что у меня есть такая девушка как ты. ты мой лучик света в этой темной и холодной зиме. ты всегда меня поддержишь и выслушаешь. я очень ценю тебя за это. с тобой я чувствую себя в безопасности, знаю что последнее время я был опечален, но ты ни в коем случае не воспринимай на свой счет. сейчас я активно работаю над всеми своими проблемами чтобы они не затрагивали тебя. я безумно рад что ты у меня очень понимающая. хоть с нового года у нас было не все гладко и мы расстались даже на целых несколько часов, но любовь это в первую очередь про выбор и я вижу твой выбор, и благодарен тебе за то что выбор ты делаешь в пользу наших отношений. так же хочу сказать спасибо за то что ты всегда идёшь на контакт и мы с тобой всегда общаемся и приходим к определенным выводам и продолжаем работу над нашими отношениями. очень надеюсь что все продолжится в том же духе и оглядываясь назад мы восхищено смотрели на весь тут путь, который мы выложили кирпичик за кирпичиком. желаю нам с тобой только процветания как в наших отношениях, так и наших личностей. я невероятно счастлив что ты начала выбираться из тяжелого периода в своей жизни и начинаешь находить в себе силы жить, это на самом деле очень большой анализ самой себя, что дается далеко не каждому! 
+я искренне верю что весь наш путь перемен идёт только на пользу. мы сейчас как раз в том периоде жизни когда мы начинаем обретать ответственность и перестаем быть детьми. очень надеюсь что тебе понравится выбор твоей новой специальности в новом вузе, ведь ты уже с большей осознанностью подходишь к этому вопросу. знай, какой бы выбор ты не сделала, я тебя всегда поддержу (хоть могу и подушнить, куда без этого 😁)
+я тебя очень сильно люблю и хочу чтобы мы продолжали нашу работу над отношениями и все так же решали проблемы разговорами и компромиссами ❤️❤️❤️💋💋💋
+знай, ты у меня самая лучшая, самая красивая, самая умная, самая веселая и самая интересная!!
+(поздравление могло получить немного сумбурным, серьезным и непонятным, так что прости за это 😋)</tg-spoiler>""",parse_mode="HTML")
 
 
 bot.polling(non_stop=True)
